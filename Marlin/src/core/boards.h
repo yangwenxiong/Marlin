@@ -312,7 +312,7 @@
 #define BOARD_FYSETC_S6               4212  // FYSETC S6 board
 #define BOARD_FLYF407ZG               4213  // FLYF407ZG board (STM32F407ZG)
 #define BOARD_MKS_ROBIN2              4214  // MKS_ROBIN2 (STM32F407ZE)
-
+#define BOARD_BIGTREE_GTR_V1_0        4215  // BigTreeTech GTR v1.0 (STM32F407IG)
 //
 // ARM Cortex M7
 //
